@@ -15,7 +15,8 @@
             android:layout_height="112dp"
             android:background="@color/theme_primary"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-            android:gravity="bottom">
+            android:gravity="bottom"
+            android:elevation="4dp">
 
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"
